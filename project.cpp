@@ -497,3 +497,4 @@ int main(){
 	srand(time(NULL));
 	p.play_game();
 	return 0;
+}
